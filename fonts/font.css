@@ -1,0 +1,58 @@
+﻿         @font-face {
+         font-family: Mtavruli1;
+         src: url(BPG_ExtraSquare_Mtavruli.ttf);
+     }
+
+        @font-face {
+         font-family: MyriadPro;
+         src: url(MyriadPro.ttf);
+     }
+
+
+@font-face {
+    font-family: 'Mtavruli';
+    src: url('/Content/fonts/mtavruli.eot');
+    src: url('/Content/fonts/mtavruli.eot?#iefix') format('embedded-opentype'), url('/Content/fonts/mtavruli.woff') format('woff'), url('/Content/fonts/mtavruli.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GEL';
+    src: url('/Content/fonts/bpggel.eot');
+    src: url('/Content/fonts/bpggel.eot') format('embedded-opentype'),
+         url('/Content/fonts/bpggel.woff2') format('woff2'),
+         url('/Content/fonts/bpggel.woff') format('woff'),
+         url('/Content/fonts/bpggel.ttf') format('truetype'),
+         url('/Content/fonts/bpggel.svg#!BPGGELRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'Nusxuri';
+    src: url('/Content/fonts/nusxuri.eot');
+    src: url('/Content/fonts/nusxuri.eot?#iefix') format('embedded-opentype'), url('/Content/fonts/nusxuri.woff') format('woff'),
+        url('/Content/fonts/nusxuri.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'ExtraSquare';
+    src: url('/Content/fonts/ExtraSquare.eot');
+    src: url('/Content/fonts/ExtraSquare.eot') format('embedded-opentype'), url('/Content/fonts/ExtraSquare.woff2') format('woff2'), url('/Content/fonts/ExtraSquare.woff') format('woff'), url('/Content/fonts/ExtraSquare.ttf') format('truetype'), url('/Content/fonts/ExtraSquare.svg#ExtraSquare') format('svg');
+}
+
+@font-face {
+    font-family: 'ingiri';
+    src: url('/Content/fonts/ingiri.eot');
+    src: url('/Content/fonts/ingiri.eot') format('embedded-opentype'), url('/Content/fonts/ingiri.woff2') format('woff2'), url('/Content/fonts/ingiri.woff') format('woff'), url('/Content/fonts/ingiri.ttf') format('truetype'), url('/Content/fonts/ingiri.svg#ingiri') format('svg');
+}
+
+@font-face {
+    font-family: 'mtavruli1';
+    src: url('/Content/fonts/mtavruli.eot');
+    src: url('/Content/fonts/mtavruli.eot') format('embedded-opentype'), url('/Content/fonts/mtavruli.woff2') format('woff2'), url('/Content/fonts/mtavruli.woff') format('woff'), url('/Content/fonts/mtavruli.ttf') format('truetype'), url('/Content/fonts/mtavruli.svg#mtavruli') format('svg');
+}
+
+ 

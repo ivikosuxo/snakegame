@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ARIALN';
+    src: url('fonts/ARIALN.eot');
+    src: url('fonts/ARIALN.eot') format('embedded-opentype'),
+         url('fonts/ARIALN.woff2') format('woff2'),
+         url('fonts/ARIALN.woff') format('woff'),
+         url('fonts/ARIALN.ttf') format('truetype'),
+         url('fonts/ARIALN.svg#ARIALN') format('svg');
+}

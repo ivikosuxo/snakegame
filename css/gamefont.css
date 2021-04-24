@@ -1,0 +1,39 @@
+﻿         @font-face {
+         font-family: Mtavruli1;
+         src: url(BPG_ExtraSquare_Mtavruli.ttf);
+     }
+
+        @font-face {
+         font-family: MyriadPro;
+         src: url(MyriadPro.ttf);
+     }
+
+
+
+@font-face {
+    font-family: 'Mtavruli';
+    src: url('/Content/fonts/ALKSanet.eot');
+    src: url('/Content/fonts/ALKSanet.eot?#iefix') format('embedded-opentype'), 
+        url('/Content/fonts/ALKSanet.woff') format('woff'),
+        url('/Content/fonts/ALKSanet.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nusxuri';
+    src: url('/Content/fonts/DejaVuSansCondensed.eot');
+    src: url('/Content/fonts/DejaVuSansCondensed.eot?#iefix') format('embedded-opentype'), 
+        url('/Content/fonts/DejaVuSansCondensed.woff') format('woff'),
+        url('/Content/fonts/DejaVuSansCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'ExtraSquare';
+    src: url('/Content/fonts/ExtraSquare.eot');
+    src: url('/Content/fonts/ExtraSquare.eot') format('embedded-opentype'), url('/Content/fonts/ExtraSquare.woff2') format('woff2'), url('/Content/fonts/ExtraSquare.woff') format('woff'), url('/Content/fonts/ExtraSquare.ttf') format('truetype'), url('/Content/fonts/ExtraSquare.svg#ExtraSquare') format('svg');
+}
+
