@@ -39,6 +39,7 @@ ApplicationManager.prototype.initialize = function (canvas) {
     this.loadingBar = new LoadingBar(this.emitter);
     this.canv.addChild(this.loadingBar);
 
+    this.resizeListener();
     this.startLoading()
 }
 

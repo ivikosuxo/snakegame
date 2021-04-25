@@ -118,6 +118,7 @@ Board.prototype.CheckInteraction = function(){
      if(this.snake.CheckInteraction(this.points[i])){
         //this.points.splice(i,1);
        // this.removeChild(bonus);
+        this.emitter.emit("play_sound","bet")
         this.point.SetRandomLocation( this.borders.width, this.borders.height); 
      }
   }
