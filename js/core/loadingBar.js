@@ -16,7 +16,7 @@ function LoadingBar(eventEmitter) {
     this.centerContainer = centerContainer;
     this.addChild(centerContainer);
 
-    this.gameText = new createjs.Text("seka", "25px ExtraSquare", "white");
+    this.gameText = new createjs.Text("snake", "25px ExtraSquare", "white");
     this.gameText.textAlign = "center";
     this.gameText.textBaseline = "middle";
     this.gameText.x = 2;
